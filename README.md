@@ -12,7 +12,7 @@ I don't like gendered pronouns unless your close to me. Please do not use them.
   
 <p align="left">
        <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="fireballs" src="https://files.catbox.moe/0z5qab.gif#right"/></a> 
+         <img alt="fireballs" src="https://files.catbox.moe/vjygbn.gif"/></a> 
 
 
 

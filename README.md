@@ -1,14 +1,8 @@
 <p align="center">
-Welcome !
-  
-<p align="center">  
-You can find most info on rentry as always ^_^
-<br>
-Note that I can be harsher sometimes, please IAYOR! (interact at your own risk!)
-  
+
   <p align="center">
-       <a href=".">
+       <a href="http://rentry.co/2763">
          <img alt="fireballs" src="https://files.catbox.moe/izp80e.png"/></a> 
-
-
+<p align="center">
+[co / 2763]
 
